@@ -36,4 +36,4 @@ This project involves a comprehensive data analysis of Vrinda Store's transactio
 
 ---
 
-Feel free to explore and adapt the analysis to your own business datasets!
+
